@@ -1,5 +1,5 @@
-**This project uses Terraform to create a 3-tier architecture on AWS Instances:
-**
+*This project uses Terraform to create a 3-tier architecture on AWS Instances:
+*
 Step 1. Launch a Devlopment Instance on AWS(Option) Otherwise use Visual Studio:
 If your using Instance:
 Step 1. Install Terraform on your machine.
